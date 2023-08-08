@@ -33,14 +33,6 @@ Usage: `/gcreload <addon>`
 
 Reload an addon (quickly disable and enable).
 
-### vday
-
-Permission: `gcaddons.voteskipnight`  
-Aliases: `vd` `voteday` `dset` `dvote`  
-Usage: `/vday`
-
-Start a night skip vote or add your vote to the pool.
-
 ### rtp
 
 Permission: `gcaddons.rtp`  
